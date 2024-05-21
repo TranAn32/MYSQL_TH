@@ -14,3 +14,4 @@ INSERT INTO KetQua (MaSV, MaMH, Lanthi, Diem)
 VALUES ('S001', 'CSDL', 1, 4);
 SELECT * FROM ketqua;
 -- 4
+-- CƯờng lin
